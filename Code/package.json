@@ -1,0 +1,15 @@
+{
+  "name": "chair-lift",
+  "version": "1.0.0",
+  "description": "This project is a part of web fullstack 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Yawar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.1",
+    "typescript": "^3.7.3"
+  }
+}
