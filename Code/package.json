@@ -4,12 +4,22 @@
   "description": "This project is a part of web fullstack 2.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
   },
   "author": "M Yawar",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.1",
     "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "joi": "^14.3.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "pg": "^7.14.0",
+    "ts-node": "^8.5.4",
+    "tsconfig-paths": "^3.9.0"
   }
 }

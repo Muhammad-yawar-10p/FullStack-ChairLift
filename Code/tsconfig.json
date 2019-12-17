@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "lib": ["ES2017"],
+        "target": "ES6",
+        "moduleResolution": "Node",
+        "noUnusedParameters": true,
+        "noUnusedLocals": true,
+        "sourceMap": true,
+        "outDir": "dist",
+        "rootDirs": ["src"]
+    }
+}
