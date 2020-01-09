@@ -10,10 +10,13 @@
   "author": "M Yawar",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.1",
+    "@types/convict": "^4.2.1",
+    "@types/koa": "^2.11.0",
+    "nodemon": "^2.0.2",
     "typescript": "^3.7.3"
   },
   "dependencies": {
+    "convict": "^5.2.0",
     "joi": "^14.3.1",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
